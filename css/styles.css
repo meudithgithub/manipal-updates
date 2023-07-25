@@ -1,0 +1,65 @@
+
+.sec1 {
+  background-color: #3D3C42;
+  padding: 180px;
+}
+.inspired
+{
+  /* font-family: "Sofia", sans-serif; */
+font-family: 'Bungee Spice', cursive;
+  width: auto;
+  font-size: 100px;
+}
+.help
+{
+  color: #E14D2A;
+
+  font-family: 'Dangrek', cursive;
+}
+p {
+  margin: 35px;
+}
+h1
+{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 500px;
+}
+
+.wide {
+  margin-left: auto;
+  margin-right: auto;
+    width: 400px;
+}
+.sec2
+{
+  background-color: #FFD8A9;
+  padding: 50px  ;
+
+}
+* {
+  box-sizing: border-box;
+}
+.sec3
+{
+margin: 30px;
+}
+.sec4
+{
+background-color: #FFD8A9;
+padding: 30px;
+}
+.sec5
+{
+  background-color: #3D3C42;
+  padding: 50px;
+}
+.last
+{
+  color : white;
+    font-family: 'Dangrek', cursive;
+}
+
+
+th, td {
+  padding: 15px;
+}
